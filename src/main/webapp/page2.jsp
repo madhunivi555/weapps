@@ -26,7 +26,7 @@
     <body>
         <f:view>
             <h:form id="mainForm">
-                <h2><h:outputText value="Hello #{helloWorld.name}. We hope you enjoy Apache MyFaces MadhuBabu Srav Nivi Dishi"/></h2>
+                <h2><h:outputText value="Hello #{helloWorld.name}. We hope you enjoy Apache MyFaces My Sweet Family"/></h2>
                 <h:commandLink action="back">
                     <h:outputText value="Home"/>
                 </h:commandLink>
